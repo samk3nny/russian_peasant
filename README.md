@@ -1,1 +1,1 @@
-# russian_peasant
+# Russian Peasant from algorithm
