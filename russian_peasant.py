@@ -17,6 +17,7 @@ def run(arg1, arg2):
 	print total
 	print arg1 * arg2
 
+
 if __name__ == '__main__':
 	run(int(sys.argv[1]), int(sys.argv[2]))
 
