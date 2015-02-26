@@ -1,1 +1,1 @@
-# Russian Peasant from algorithm
+# Russian Peasant algorithm from Udemy
