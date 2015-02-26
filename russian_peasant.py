@@ -7,14 +7,14 @@ def run(arg1, arg2):
 
 	print 'running for {} {}'.format(divider, multiplier)
 
-	to_sum = []
+	total = 0
 	while divider >= 1:
 		if not divider % 2 == 0:
-			to_sum.append(multiplier)
+			total = total + multiplier
 		divider = divider / 2
-		multiplier = multiplier *2
+		multiplier = multiplier * 2
 
-	print sum(to_sum)
+	print total
 	print arg1 * arg2
 
 if __name__ == '__main__':
